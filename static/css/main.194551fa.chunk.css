@@ -1,2 +1,2 @@
 .App{display:flex;flex-wrap:wrap;justify-content:center;align-items:center;grid-gap:10px;gap:10px}.indicator{padding:15px;color:#fff}.indicator--true{background:#00b15c}.indicator--false{background:#f54b35}.card{box-sizing:border-box;width:500px;height:400px;display:flex;flex-direction:column;justify-content:space-between;transition:-webkit-transform .25s;transition:transform .25s;transition:transform .25s,-webkit-transform .25s}.card:hover{-webkit-transform:scale(1.02);transform:scale(1.02)}.indicator-true{transition:all .25s}.indicator-true:hover{background:#00b15c}.indicator-fasle{transition:all .25s}.indicator-fasle:hover{background:#f54b35}
-/*# sourceMappingURL=main.72e3c3e8.chunk.css.map */
+/*# sourceMappingURL=main.194551fa.chunk.css.map */
